@@ -1,0 +1,72 @@
+{
+  "note": "One entry per completed output cleared for public use. Home and Work show the latest entry in each category by completed_at. Add a newer entry to replace a category; keep older entries for the record.",
+  "categories": ["product-still", "carousel", "slideshow", "product-reel", "sharing-video"],
+  "items": [
+    {
+      "category": "product-still",
+      "title": "Romantic table lamp",
+      "caption": "A table lamp set on a bedside table, so shoppers can picture the warm light it brings to a room.",
+      "completed_at": "2026-11-22T12:00:00+08:00",
+      "cleared_for_public": true,
+      "type": "image",
+      "media": "assets/media/still-p443-table-lamp.jpg",
+      "alt": "Elaine beside a bedside table with a warm table lamp",
+      "label": "Ruang Selesa studio work · AI presenter and AI-generated scene"
+    },
+    {
+      "category": "carousel",
+      "title": "Slim storage rack: what to check",
+      "caption": "A seven-slide checklist that walks shoppers through what to check before buying a slim storage rack.",
+      "completed_at": "2026-11-22T18:00:00+08:00",
+      "cleared_for_public": true,
+      "type": "carousel",
+      "slides": [
+        "assets/media/carousel-c1-p119/slide-1.jpg",
+        "assets/media/carousel-c1-p119/slide-2.jpg",
+        "assets/media/carousel-c1-p119/slide-3.jpg",
+        "assets/media/carousel-c1-p119/slide-4.jpg",
+        "assets/media/carousel-c1-p119/slide-5.jpg",
+        "assets/media/carousel-c1-p119/slide-6.jpg",
+        "assets/media/carousel-c1-p119/slide-7.jpg"
+      ],
+      "alt": "Carousel slides about choosing a slim storage rack",
+      "label": "Ruang Selesa studio work · AI-generated visuals"
+    },
+    {
+      "category": "slideshow",
+      "title": "Slim storage rack in a small home",
+      "caption": "A narrated sequence of lifestyle shots showing where a slim storage rack fits and what it holds.",
+      "completed_at": "2026-11-20T23:30:00+08:00",
+      "cleared_for_public": true,
+      "type": "video",
+      "media": "assets/media/slideshow-p119-storage-rack.mp4",
+      "poster": "assets/media/slideshow-p119-storage-rack-poster.jpg",
+      "alt": "Slideshow video of a slim storage rack in a home",
+      "label": "Ruang Selesa studio work · AI-generated visuals"
+    },
+    {
+      "category": "product-reel",
+      "title": "Foldable kettle",
+      "caption": "Elaine shows a foldable kettle and the space it saves when packed away.",
+      "completed_at": "2026-11-21T23:00:00+08:00",
+      "cleared_for_public": true,
+      "type": "video",
+      "media": "assets/media/reel-r1b-p238-foldable-kettle.mp4",
+      "poster": "assets/media/reel-r1b-p238-foldable-kettle-poster.jpg",
+      "alt": "Product reel of Elaine presenting a foldable kettle",
+      "label": "Ruang Selesa studio work · AI presenter"
+    },
+    {
+      "category": "sharing-video",
+      "title": "Make your home feel more comfortable",
+      "caption": "Elaine shares a practical tip for making a room feel calmer, in Malaysian Mandarin with English subtitles.",
+      "completed_at": "2026-11-22T06:40:00+08:00",
+      "cleared_for_public": true,
+      "type": "video",
+      "media": "assets/media/sharing-make-home-feel-comfortable.mp4",
+      "poster": "assets/media/sharing-make-home-feel-comfortable-poster.jpg",
+      "alt": "Elaine talking to camera in her living room",
+      "label": "Ruang Selesa studio work · AI presenter"
+    }
+  ]
+}
