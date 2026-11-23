@@ -1,7 +1,9 @@
 /* Pau Studio site: colour tone shared with the internal dashboard */
 :root{--ink:#252521;--paper:#f6f4ee;--orange:#d98538;--orange-ink:#fff;--line:#dedbd1;--panel:#fffdf8;--muted:#595b51;--soft:#f2f0e9;--tag:#f4eadc;--bar:#272822}
 body{background:var(--paper);color:var(--ink)}
-header{background:var(--bar);color:#fff;border-bottom:0;box-shadow:0 0 0 100vmax var(--bar);clip-path:inset(0 -100vmax)}
+body{overflow-x:clip}
+header{color:#fff;border-bottom:0}
+header::before{content:"";position:absolute;top:0;bottom:0;left:-100vmax;right:-100vmax;background:var(--bar);z-index:-1}
 header .logo{color:#fff}
 .menu-toggle{color:#fff;border-color:#4a4b43}
 .menu-toggle:hover,.menu-toggle[aria-expanded=true]{background:var(--orange);color:var(--orange-ink);border-color:var(--orange)}
