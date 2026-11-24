@@ -67,6 +67,18 @@
       "poster": "assets/media/sharing-make-home-feel-comfortable-poster.jpg",
       "alt": "Elaine talking to camera in her living room",
       "label": "Ruang Selesa studio work · AI presenter"
+    },
+    {
+      "category": "sharing-video",
+      "title": "Warm light",
+      "caption": "Elaine shares why a hotel room feels relaxing and how one warm lamp brings that calm home, in Malaysian Mandarin with English subtitles.",
+      "completed_at": "2026-11-24T13:21:00+08:00",
+      "cleared_for_public": true,
+      "type": "video",
+      "media": "assets/media/sharing-rs001-warm-light.mp4",
+      "poster": "assets/media/sharing-rs001-warm-light-poster.jpg",
+      "alt": "Elaine talking to camera in her living room beside a warm table lamp",
+      "label": "Ruang Selesa studio work · AI presenter"
     }
   ]
 }
