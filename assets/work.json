@@ -1,5 +1,5 @@
 {
-  "note": "One entry per completed output cleared for public use. Home and Work show the latest entry in each category by completed_at. Add a newer entry to replace a category; keep older entries for the record.",
+  "note": "Every completed output cleared for public use, one entry each. The Work page shows the 10 newest per category (newest first, by completed_at); Home shows the newest per category. Older entries stay here as the record. Batch entries are added by the rs-publish workflow.",
   "categories": [
     "product-still",
     "carousel",
@@ -84,7 +84,8 @@
       "media": "assets/media/sharing-rs001-warm-light.mp4",
       "poster": "assets/media/sharing-rs001-warm-light-poster.jpg",
       "alt": "Elaine talking to camera in her living room beside a warm table lamp",
-      "label": "Ruang Selesa studio work · AI presenter"
+      "label": "Ruang Selesa studio work · AI presenter",
+      "content_id": "RS-001"
     },
     {
       "category": "product-reel",
@@ -96,7 +97,8 @@
       "media": "assets/media/reel-rs002-p274-garlic-chopper.mp4",
       "poster": "assets/media/reel-rs002-p274-garlic-chopper-poster.jpg",
       "alt": "Product reel of Elaine using an electric garlic chopper in her kitchen",
-      "label": "Ruang Selesa studio work · AI presenter"
+      "label": "Ruang Selesa studio work · AI presenter",
+      "content_id": "RS-002"
     },
     {
       "category": "slideshow",
@@ -108,7 +110,8 @@
       "media": "assets/media/slideshow-rs003-p087-corner-pole-shelf.mp4",
       "poster": "assets/media/slideshow-rs003-p087-corner-pole-shelf-poster.jpg",
       "alt": "Slideshow video of a corner pole shelf in a small bathroom",
-      "label": "Ruang Selesa studio work · AI-generated visuals"
+      "label": "Ruang Selesa studio work · AI-generated visuals",
+      "content_id": "RS-003"
     },
     {
       "category": "carousel",
@@ -127,7 +130,8 @@
         "assets/media/carousel-rs004-p200/slide-7.jpg"
       ],
       "alt": "Carousel slides about choosing a rice dispenser",
-      "label": "Ruang Selesa studio work · AI-generated visuals"
+      "label": "Ruang Selesa studio work · AI-generated visuals",
+      "content_id": "RS-004"
     },
     {
       "category": "product-still",
@@ -138,7 +142,8 @@
       "type": "image",
       "media": "assets/media/still-rs005-p352-bean-bag.jpg",
       "alt": "Elaine relaxing on a brown bean bag in a balcony corner",
-      "label": "Ruang Selesa studio work · AI presenter and AI-generated scene"
+      "label": "Ruang Selesa studio work · AI presenter and AI-generated scene",
+      "content_id": "RS-005"
     }
   ]
 }
