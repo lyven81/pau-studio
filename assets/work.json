@@ -1,6 +1,12 @@
 {
   "note": "One entry per completed output cleared for public use. Home and Work show the latest entry in each category by completed_at. Add a newer entry to replace a category; keep older entries for the record.",
-  "categories": ["product-still", "carousel", "slideshow", "product-reel", "sharing-video"],
+  "categories": [
+    "product-still",
+    "carousel",
+    "slideshow",
+    "product-reel",
+    "sharing-video"
+  ],
   "items": [
     {
       "category": "product-still",
@@ -79,6 +85,60 @@
       "poster": "assets/media/sharing-rs001-warm-light-poster.jpg",
       "alt": "Elaine talking to camera in her living room beside a warm table lamp",
       "label": "Ruang Selesa studio work · AI presenter"
+    },
+    {
+      "category": "product-reel",
+      "title": "Electric garlic chopper",
+      "caption": "Elaine shows how one press of an electric garlic chopper preps garlic for dinner in seconds.",
+      "completed_at": "2026-11-24T15:16:00+08:00",
+      "cleared_for_public": true,
+      "type": "video",
+      "media": "assets/media/reel-rs002-p274-garlic-chopper.mp4",
+      "poster": "assets/media/reel-rs002-p274-garlic-chopper-poster.jpg",
+      "alt": "Product reel of Elaine using an electric garlic chopper in her kitchen",
+      "label": "Ruang Selesa studio work · AI presenter"
+    },
+    {
+      "category": "slideshow",
+      "title": "Corner pole shelf",
+      "caption": "A narrated before and after of a small bathroom, where one floor-to-ceiling corner shelf gathers the bottles in one place.",
+      "completed_at": "2026-11-24T16:23:00+08:00",
+      "cleared_for_public": true,
+      "type": "video",
+      "media": "assets/media/slideshow-rs003-p087-corner-pole-shelf.mp4",
+      "poster": "assets/media/slideshow-rs003-p087-corner-pole-shelf-poster.jpg",
+      "alt": "Slideshow video of a corner pole shelf in a small bathroom",
+      "label": "Ruang Selesa studio work · AI-generated visuals"
+    },
+    {
+      "category": "carousel",
+      "title": "Rice dispenser: what to check",
+      "caption": "A seven-slide checklist on choosing a rice dispenser: how snugly the lid fits, how well the outlet closes, and how easy it is to clean.",
+      "completed_at": "2026-11-24T16:55:00+08:00",
+      "cleared_for_public": true,
+      "type": "carousel",
+      "slides": [
+        "assets/media/carousel-rs004-p200/slide-1.jpg",
+        "assets/media/carousel-rs004-p200/slide-2.jpg",
+        "assets/media/carousel-rs004-p200/slide-3.jpg",
+        "assets/media/carousel-rs004-p200/slide-4.jpg",
+        "assets/media/carousel-rs004-p200/slide-5.jpg",
+        "assets/media/carousel-rs004-p200/slide-6.jpg",
+        "assets/media/carousel-rs004-p200/slide-7.jpg"
+      ],
+      "alt": "Carousel slides about choosing a rice dispenser",
+      "label": "Ruang Selesa studio work · AI-generated visuals"
+    },
+    {
+      "category": "product-still",
+      "title": "Bean bag on the balcony",
+      "caption": "Elaine unwinds on a bean bag in a quiet balcony corner, so shoppers can picture the spot it creates.",
+      "completed_at": "2026-11-24T17:31:00+08:00",
+      "cleared_for_public": true,
+      "type": "image",
+      "media": "assets/media/still-rs005-p352-bean-bag.jpg",
+      "alt": "Elaine relaxing on a brown bean bag in a balcony corner",
+      "label": "Ruang Selesa studio work · AI presenter and AI-generated scene"
     }
   ]
 }
